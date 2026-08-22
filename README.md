@@ -32,7 +32,7 @@ Fullstack Developer — Next.js · TypeScript · Prisma · Django
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,django,prisma" alt="Node.js, Django, Prisma" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,springboot,django,prisma" alt="Node.js, Django, Prisma" /></td>
   </tr>
   <tr>
     <td align="center"><b>Database</b></td>
