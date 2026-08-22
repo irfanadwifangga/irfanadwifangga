@@ -2,7 +2,7 @@
 
 # Irfana Dwi Fangga
 
-Fullstack Developer — Next.js · TypeScript · Prisma · Django
+Fullstack Developer — Next.js · TypeScript · Prisma · Django · Spring Boot
 
 <a href="https://www.linkedin.com/in/irfanadwifangga" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:irvanadwifangga@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
